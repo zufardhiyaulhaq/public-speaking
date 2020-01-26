@@ -3,6 +3,7 @@
 Tech Talks
 ===
 
+The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
 
 ## 2019
 
@@ -30,6 +31,6 @@ Tech Talks
  - Twitter [@zufardhiyaulhaq](https://twitter.com/zufardhiyaulhaq) 
  - LinkedIn [Zufar Dhiyaulhaq](https://www.linkedin.com/in/zufardhiyaulhaq/) 
  
-**Best way to contact you**: 
+**Best way to contact me**: 
 
 If you truly need me for something that you cannot find here you can [email me](mailto:zufardhiyaulhaq@gmail.com).
