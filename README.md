@@ -5,8 +5,11 @@ Tech Talks
 
 The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
 
-## 2019
+## 2020
+1. [TECH TALK] *7 November, 2020* [Open Infrastructure & Cloud Native Day Indonesia 2020](https://www.openstack.id/2020/10/08/open-infrastructure-cloud-native-day-indonesia-2020/) **Title**: *Single Sign on for Kubernetes: A Comprehensive Study* **Slide**: [here](https://www.openstack.id/wp-content/uploads/2020/11/Zufar-Dhiyaulhaq-%E2%80%93-Single-Sign-on-for-Kubernetes-A-Comprehensive-Study-EN.pdf), **Videos**: [here](https://www.youtube.com/watch?v=cJc7LhdSnd0)
 
+
+## 2019
 1. [TECH TALK & WORKSHOP] *January 05, 2019* [Open Networking Meetup](https://ambassadors.opennetworking.org/event/open-networking-meetup/) **Title**: *Introduction to ONF, ONOS, CORD, P4* **Slide ONOS**: [here](https://drive.google.com/open?id=1PFMd3D2hEfGCyiPpMSW6FSbn-cNtibzF), **Slide CORD**: [here](https://drive.google.com/open?id=1ULz8iZxRE_mByFt6lVDBcEtfNsJLGRkJ), **Slide P4**: [here](https://drive.google.com/open?id=1mCnk28gvXZH-dV8zvd6cmZRdImBexb-2), **Slide Workshop ONOS & P4**: [here](https://drive.google.com/open?id=11uv7AW8LS00qxBQkrlRTFiFvw5O4Scqg)
 
 2. [TECH TALK] *July 11, 2019* [Jakarta Kubernetes Meetup #7](https://www.meetup.com/jakarta-kubernetes/events/262832040/) **Title**: *Kuryr Kubernetes: Interconnecting Kubernetes with Openstack* **Slide**: [here](https://docs.google.com/presentation/d/10KbPoYup4oKp-gCsXxMGJ7fNNfvWwXfYWHfTiBDZOHs/edit#slide=id.g5d2159c8d6_2_75)
