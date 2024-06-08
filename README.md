@@ -11,6 +11,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 2. Istio Web Application Firewall with WASM & OWASP Coraza, [IstioCon China 2023](https://www.youtube.com/watch?v=47MxrFX1rRg&pp=ygUQenVmYXIgZGhpeWF1bGhhcQ%3D%3D)
 3. OWASP Coraza: Open Source WAF for Cloud Native Service Mesh, [OWASP 2023 Global AppSec Singapore](https://www.youtube.com/watch?v=SCEZGRvcxc8&t=858s)
 4. Program Committee Member KubeCon + CloudNativeCon North America 2023
+5. Kubernetes Best Practice & Cost Saving, Google Cloud Summit Jakarta 2023
 ## 2022
 1. [TECH TALK] *25 February, 2021* [IstioCon 2021](https://events.istio.io/istiocon-2021/sessions/automate-mtls-communication-with-gopay-partners-with-istio/) **Title**: *Automate mTLS communication with GoPay partners with Istio* **Videos**: [here](https://www.youtube.com/watch?v=pIZZTGkQgWc)
 2. Leading [Kubernetes Community Days Indonesia 2022](https://www.youtube.com/watch?v=4X08kViNMOw&list=PLDAA8KTg2foYJOJfmW3dWv2cDm-BeMAHf)
