@@ -15,6 +15,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 ## 2022
 1. [TECH TALK] *25 February, 2021* [IstioCon 2021](https://events.istio.io/istiocon-2021/sessions/automate-mtls-communication-with-gopay-partners-with-istio/) **Title**: *Automate mTLS communication with GoPay partners with Istio* **Videos**: [here](https://www.youtube.com/watch?v=pIZZTGkQgWc)
 2. Leading [Kubernetes Community Days Indonesia 2022](https://www.youtube.com/watch?v=4X08kViNMOw&list=PLDAA8KTg2foYJOJfmW3dWv2cDm-BeMAHf)
+3. Improving Rate Limit Experience for Developers in Istio [IstioCon 2022](https://events.istio.io/istiocon-2022/sessions/improving-rate-limit-experience/)
 ## 2021
 1. [TECH TALK] *25 February, 2021* [IstioCon 2021](https://events.istio.io/istiocon-2021/sessions/automate-mtls-communication-with-gopay-partners-with-istio/) **Title**: *Automate mTLS communication with GoPay partners with Istio* **Videos**: [here](https://www.youtube.com/watch?v=pIZZTGkQgWc)
 2. [TECH TALK] *29 May, 2021* [Gojek x BCC 4th online learning backend serverless](https://www.instagram.com/p/CPXjuFtpxKO/?utm_source=ig_web_copy_link) **Title**: *Introduction to Serverless* **Slide**: [here](https://docs.google.com/presentation/d/1_fwEOu3bNVli1h1lo8zVKCP_KnqekuYAo492feu8wOE/edit?usp=sharing)
