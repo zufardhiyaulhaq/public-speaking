@@ -5,7 +5,8 @@ Tech Talks
 The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities, and events in general.
 
 ## 2024
-1. TBD
+1. Bangkit 2024, Teach course Idea to Interface: Building APIs in Google Cloud
+2. Workshop WAF OWASP Coraza @ BSSN
 ## 2023
 2. Istio Web Application Firewall with WASM & OWASP Coraza, [IstioCon China 2023](https://www.youtube.com/watch?v=47MxrFX1rRg&pp=ygUQenVmYXIgZGhpeWF1bGhhcQ%3D%3D)
 3. OWASP Coraza: Open Source WAF for Cloud Native Service Mesh, [OWASP 2023 Global AppSec Singapore](https://www.youtube.com/watch?v=SCEZGRvcxc8&t=858s)
