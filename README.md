@@ -7,6 +7,10 @@ The purpose of this repository is to consolidate in a single place all my partic
 ## 2024
 1. Bangkit 2024, Teach course Idea to Interface: Building APIs in Google Cloud
 2. Workshop WAF OWASP Coraza @ BSSN
+4. How GoTo Financial Automates Upgrading 60+ Istio Service Mesh Seamlessly! - KubeDay Australia 2024
+5. How GoTo Financial Automates Upgrading 60+ Istio Service Mesh Seamlessly! - KubeCon North America 2024 (Visa Rejected, lol)
+6. Introduction to Kubernetes Gateway API - Kubernetes Community Days Indonesia 2024
+
 ## 2023
 2. Istio Web Application Firewall with WASM & OWASP Coraza, [IstioCon China 2023](https://www.youtube.com/watch?v=47MxrFX1rRg&pp=ygUQenVmYXIgZGhpeWF1bGhhcQ%3D%3D)
 3. OWASP Coraza: Open Source WAF for Cloud Native Service Mesh, [OWASP 2023 Global AppSec Singapore](https://www.youtube.com/watch?v=SCEZGRvcxc8&t=858s)
